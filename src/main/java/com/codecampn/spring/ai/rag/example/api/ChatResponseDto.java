@@ -1,4 +1,4 @@
-package com.codecampn.spring.ai.rag.app.api;
+package com.codecampn.spring.ai.rag.example.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

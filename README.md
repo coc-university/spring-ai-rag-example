@@ -1,4 +1,13 @@
-# Spring AI RAG App
+# Spring AI RAG Example
+
+## ToDo:
+
+- this project uses an old version of spring-ai and has to be updated
+- but the general idea is still the same
+- with newer versions (e.g. 1.1.2) you can use Advisors to embed RAG in the ChatClient
+- so you do not have to call vectorStore.similaritySearch() manually
+- e.g. QuestionAnswerAdvisor + SearchRequest
+- e.g. chatClient.defaultAdvisor(qaAdvisor)
 
 ## Based on:
 
@@ -34,5 +43,5 @@
 
 
 ## Dependencies and Flowchart: 
-- [spring-ai-rag-app.drawio.pdf](spring-ai-rag-app.drawio.pdf)
+- [spring-ai-rag-example.drawio.pdf](spring-ai-rag-example.drawio.pdf)
  

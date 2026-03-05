@@ -1,13 +1,11 @@
-package com.codecampn.spring.ai.rag.app.business;
+package com.codecampn.spring.ai.rag.example.business;
 
-import com.codecampn.spring.ai.rag.app.api.ChatResponseDto;
+import com.codecampn.spring.ai.rag.example.api.ChatResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.ChatClient;
 import org.springframework.ai.chat.ChatResponse;
 import org.springframework.ai.chat.messages.Message;
-import org.springframework.ai.chat.messages.SystemMessage;
-import org.springframework.ai.chat.messages.UserMessage;
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.stereotype.Service;
 

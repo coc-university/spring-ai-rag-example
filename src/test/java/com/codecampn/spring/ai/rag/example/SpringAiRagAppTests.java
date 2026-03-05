@@ -1,4 +1,4 @@
-package com.codecampn.spring.ai.rag.app;
+package com.codecampn.spring.ai.rag.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

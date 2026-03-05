@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com.codecampn</groupId>
-	<artifactId>spring-ai-rag-app</artifactId>
+	<artifactId>spring-ai-rag-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-ai-rag-app</name>
+	<name>spring-ai-rag-example</name>
 	<description>Demo ai project</description>
 
 	<properties>

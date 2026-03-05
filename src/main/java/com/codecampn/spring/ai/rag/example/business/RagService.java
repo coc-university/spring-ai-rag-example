@@ -1,4 +1,4 @@
-package com.codecampn.spring.ai.rag.app.business;
+package com.codecampn.spring.ai.rag.example.business;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.messages.Message;

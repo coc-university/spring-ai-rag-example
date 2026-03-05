@@ -1,6 +1,6 @@
-package com.codecampn.spring.ai.rag.app.api;
+package com.codecampn.spring.ai.rag.example.api;
 
-import com.codecampn.spring.ai.rag.app.business.RagService;
+import com.codecampn.spring.ai.rag.example.business.RagService;
 import lombok.AllArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Service;

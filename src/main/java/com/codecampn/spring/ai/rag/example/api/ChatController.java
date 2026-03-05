@@ -1,7 +1,7 @@
-package com.codecampn.spring.ai.rag.app.api;
+package com.codecampn.spring.ai.rag.example.api;
 
-import com.codecampn.spring.ai.rag.app.business.ChatService;
-import com.codecampn.spring.ai.rag.app.business.RagService;
+import com.codecampn.spring.ai.rag.example.business.ChatService;
+import com.codecampn.spring.ai.rag.example.business.RagService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.messages.Message;
